@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of Artificial Intelligence. It enables computers to learn from data without being explicitly programmed.
+
+Deep Learning is a branch of Machine Learning that uses neural networks with many layers.
+
+Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language.
+
+Cyber Security
+
+Cyber Security is the practice of protecting computers, networks, software, and data from cyber attacks, unauthorized access, and damage. It uses technologies, policies, and security practices to ensure that digital information remains safe, confidential, and available only to authorized users.
+
+Importance of Cyber Security
+
+Cyber Security is essential because it protects personal information, financial data, and organizational resources from cyber criminals. It helps prevent data breaches, identity theft, financial losses, and disruptions to critical services, ensuring the safe use of digital technologies.
